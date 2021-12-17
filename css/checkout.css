@@ -150,3 +150,7 @@ input {
 .remove:hover {
     color: #CB4335;
 }
+
+.brand {
+    font-weight: bolder;
+  }

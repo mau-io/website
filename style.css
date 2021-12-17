@@ -201,3 +201,7 @@ figcaption {
   filter: brightness(50%);
   transition: .5s ease;
 }
+
+.brand {
+  font-weight: bolder;
+}

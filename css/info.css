@@ -96,3 +96,7 @@ video {
 video:focus {
     outline: none;
 }
+
+.brand {
+    font-weight: bolder;
+  }

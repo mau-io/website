@@ -50,3 +50,7 @@ nav>ul>li {
     color: #cb4335;
     transition: .7s ease;
   }
+
+  .brand {
+    font-weight: bolder;
+  }
